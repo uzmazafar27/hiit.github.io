@@ -1,0 +1,235 @@
+  .body { font-family: Arial, Helvetica, sans-serif;
+text-align:center  }
+ #outer
+	 {
+		width:1000px;
+		
+		border-radius:20px;
+		margin-top:10px;
+	 }
+.body, div, h1, h2, h3, h4, h5, h6,h7,h8, p, ul, img {margin:0px; padding:0px; }
+.jumbstrom
+{
+	height:150px;
+}
+.well
+{
+	text-align:center;
+	font-size:17px;
+}
+.line{
+	color:black;
+}
+hr {
+height: 1px;
+color: #123455;
+background-color: #123455;
+border: none;
+}
+
+	
+}
+.list-group
+{
+	text-align:center;
+	font-size;50px;
+}
+
+ #header
+	 {
+		
+		height:300px;
+		background-color:white ;
+		
+	
+	 }
+	#head {
+		height:107px;
+		 
+	 }
+ #head h1
+	 {
+	 font-size: 50px;
+	   color:red;
+	   text-align:center;
+		
+	 }
+	 #header h2
+	 {
+	 font-size: 40px;
+	   color:green;
+	   text-align:center;
+		
+	 }
+	 	 #header p
+	 {
+	 font-size: 30px;
+	   color:black;
+	   text-align:center;
+		
+	 }
+	 #header  h3
+	 {
+	 font-size: 30px;
+	   color: blue;
+	      text-align:center;
+		
+	 }
+	 
+
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: blue;
+}
+#lside  h5{
+    font-size: 26;
+    color:black;
+    font-weight: normal;
+    padding-bottom: 20px;
+    padding-left: 15px;
+	text-align:center;
+}
+#lside1 h3
+{
+     
+		height:1px;
+		background-color:lightyellow;
+		font-size:17px;
+		margin-top:10px;
+		text-align:center;
+		
+
+}
+
+	
+ #rside  h4
+	{
+	 font-size:25px;
+	 color:blue;
+	 text-align:center;
+	 }
+	   #rside  h2
+	{
+	 font-size:40px;
+	 color:gray;
+	 text-align:center;
+	 }
+	    #rside  h5
+	{
+	  
+	 color:gray;
+	 text-align:center;
+	 }
+	  #rside  h6
+	{
+	  font-size: 30px;
+	 text-align:center;
+	 }
+	  
+	  #rside  h1
+	{
+	  font-size: 20px;
+	 text-align:center;
+	 }
+	  #rside  small
+	{
+	  color:red;
+	  font-size: 15px;
+	 text-align:center;
+	 }
+#home1 p
+ 
+{
+color:red;
+}
+ 
+#home1 ul {
+    list-style: none;
+    padding-bottom: 25px;
+}
+ 
+#home1 ul li a {
+    font-size: 14px;
+    color: #393838; 
+}
+ 
+ul#home1 li {
+    padding-bottom: 5px; 
+}
+ 
+ul#home1 li a {
+    font-size: 18px; 
+}
+ #footer
+	 {
+		width:995px;
+		height:250px;
+		background-color:pink;
+		
+		margin-top:10px;
+		}
+	  #lef1
+	 {
+	 float:left;
+	 font-size:22px; 
+	 color:brown;
+	 
+
+	 }
+	#cen
+	{
+	 font-size:25px;
+	 height:280px;
+	 float:left;
+	 width:33.34%;
+	 color:gray;
+	
+	}
+	 #lef
+	 {
+	 font-size:25px;
+	 width:300px;
+	 height:100px;
+	 float:right;
+	 	width:33.34%;
+	 }
+	 #rside  h4
+	{
+	 font-size:25px;
+	 color:red;
+	 text-align:center;
+	 }
+	 .container
+	 {
+     float:center;
+	width:1020;
+	text-align:center;
+	 }
+	.container3
+	{
+		color:orange;
+	}
