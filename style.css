@@ -2,7 +2,7 @@
 text-align:center  }
  #outer
 	 {
-		width:1020px;
+		width:1070px;
 		
 		border-radius:20px;
 		margin-top:10px;
@@ -14,7 +14,7 @@ text-align:center  }
 }
 .well
 {
-	width:1020px;
+	width:1070px;
 	text-align:center;
 	font-size:17px;
 }
@@ -113,7 +113,7 @@ li a:hover:not(.active) {
     padding-bottom: 20px;
     padding-left: 15px;
 	text-align:center;
-	width:1020px;
+	width:1070px;
 }
 #lside1 h3
 {
@@ -129,11 +129,11 @@ li a:hover:not(.active) {
 #home1
 
 {
-	width:1020px;
+	width:1070px;
 }
 #rside
 {
-width:1020px;
+width:1070px;
 }
 
 	
@@ -197,7 +197,7 @@ ul#home1 li a {
 }
  #footer
 	 {
-		width:1020px;
+		width:1070px;
 		height:250px;
 		background-color:pink;
 		
@@ -237,13 +237,13 @@ ul#home1 li a {
 	 .container
 	 {
      float:center;
-	width:1020px;
+	width:1070px;
 	text-align:center;
 	 }
 	 .container2
 	 {
      float:center;
-	width:1020px;
+	width:1070px;
 	text-align:center;
 	 }
 	
@@ -251,14 +251,14 @@ ul#home1 li a {
 	{
 		text-align:center;
 		color:orange;
-		width:1020px:
+		width:1070px:
 		
 	}
 	.container4
 	{
 		text-align:center;
 		
-		width:1020px:
+		width:1070px:
 		
 	}
 	
@@ -266,7 +266,7 @@ ul#home1 li a {
 	{
 		text-align:center;
 		
-		width:1020px:
+		width:1070px:
 		
 	}
 	.container6
@@ -275,12 +275,12 @@ ul#home1 li a {
 		
 		text-align:center;
 		
-		width:1020px:
+		width:1070px:
 		
 	}
 	.con
 	{
-		width:1020px;
+		width:1070px;
 	}
 	.container7
 	{
@@ -289,12 +289,12 @@ ul#home1 li a {
 		
 	
 	
-		width:1020px:
+		width:1070px:
 		
 	}
 	@media (min-width: 1200px) {
     .container7{
-        max-width: 1020px;
+        max-width: 1070px;
     }
 }
 	.collapse
@@ -348,7 +348,7 @@ body {
 
 /* Style the top navigation bar */
 .topnav {
-	width:1020px;
+	width:1070px;
     overflow: hidden;
     background-color: brown;
 }
