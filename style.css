@@ -2,7 +2,7 @@
 text-align:center  }
  #outer
 	 {
-		width:1000px;
+		width:1020px;
 		
 		border-radius:20px;
 		margin-top:10px;
@@ -14,6 +14,7 @@ text-align:center  }
 }
 .well
 {
+	width:1020px;
 	text-align:center;
 	font-size:17px;
 }
@@ -112,6 +113,7 @@ li a:hover:not(.active) {
     padding-bottom: 20px;
     padding-left: 15px;
 	text-align:center;
+	width:1020px;
 }
 #lside1 h3
 {
@@ -123,6 +125,11 @@ li a:hover:not(.active) {
 		text-align:center;
 		
 
+}
+#home1
+
+{
+	width:1020px;
 }
 
 	
@@ -186,7 +193,7 @@ ul#home1 li a {
 }
  #footer
 	 {
-		width:995px;
+		width:1020px;
 		height:250px;
 		background-color:pink;
 		
@@ -226,10 +233,137 @@ ul#home1 li a {
 	 .container
 	 {
      float:center;
-	width:1020;
+	width:1020px;
 	text-align:center;
 	 }
+	 .container2
+	 {
+     float:center;
+	width:1020px;
+	text-align:center;
+	 }
+	
 	.container3
+	{
+		text-align:center;
+		color:orange;
+		width:1020px:
+		
+	}
+	.container4
+	{
+		text-align:center;
+		
+		width:1020px:
+		
+	}
+	
+	.container5
+	{
+		text-align:center;
+		
+		width:1020px:
+		
+	}
+	.container6
+	{
+		text-align:center;
+		
+		width:1020px:
+		
+	}
+	.container7
+	{
+		text-align:center;
+		color:orange;
+		width:1020px:
+		
+	}
+	.collapse
 	{
 		color:orange;
 	}
+	.demo
+	{
+		color:orange;
+	}
+	body {font-family: "Lato", sans-serif;}
+
+.tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+}
+
+.tablink:hover {
+    background-color: #777;
+}
+
+/* Style the tab content */
+.tabcontent {
+    color: white;
+    display: none;
+    padding: 50px;
+    text-align: center;
+}
+
+#Visit {background-color:pink;}
+#Special-Offer {background-color:lightgreen;}
+#Cost {background-color:lightblue;}
+#About {background-color:orange;}
+* {
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+
+
+/* Style the top navigation bar */
+.topnav {
+	width:1020px;
+    overflow: hidden;
+    background-color: brown;
+}
+
+/* Style the topnav links */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+    background-color:brown;
+    color:gray;
+}
+
+  .bg-1 { 
+      background-color: #1abc9c;
+      color: #ffffff;
+  }
+  .bg-2 { 
+      background-color: #474e5d;
+      color: #ffffff;
+  }
+  .bg-3 { 
+      background-color: #ffffff;
+      color: #555555;
+  }
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  
