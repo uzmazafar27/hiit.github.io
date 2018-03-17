@@ -129,22 +129,26 @@ SSC,Banking,P.O & Other Competition Classes
 
 
 
-<button onclick="myFunction()">Expenses</button>
+<!-- <button onclick="myFunction()">Expenses</button> -->
+<button class="btn btn-secondary btn-lg btn-block" onclick="myFunction()">Expenses</button>
 
-<div id="myDIV">
- <h5>
-1. Rs 150/- per day diet will be paid toeach surveyor and Counselor By ASC</br>
-2. Accommodation of The Survey Team  And Counselor Will Manage By ASC. </h5></br></br>
+<div id="myDiv">
+  <h5>
+    1. Rs 150/- per day diet will be paid toeach surveyor and Counselor By ASC
+  </h5>
+  <h5>
+    2. Accommodation of The Survey Team  And Counselor Will Manage By ASC.
+  </h5>
 </div>
 
 
 <script>
 function myFunction() {
-    var x = document.getElementById("myDIV");
-    if (x.style.display === "none") {
-        x.style.display = "block";
+    var x = document.getElementById("myDiv");
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
     } else {
-        x.style.display = "none";
+        x.style.display = 'none';
     }
 }
 </script>
